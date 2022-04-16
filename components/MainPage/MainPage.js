@@ -15,7 +15,7 @@ const MainPage = () => {
       <div
         className={`${styles.text} text-5xl md:text-8xl text-center font-bold leading-5 text-[#000]`}
       >
-        Sagar Bawane
+        Minal Bawane
       </div>
       <div
         className={`${styles.text} text-2xl mt-[70px] md:text-4xl text-center font-bold leading-10 text-[#000]`}
